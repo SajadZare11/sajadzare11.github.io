@@ -70,4 +70,4 @@ Biagraphy/
 
 - **Profile Picture**: Place an image in an `assets/` folder (e.g. `assets/profile.jpg`) and replace the SVG avatar inside `.avatar-wrapper` in `index.html`.
 - **Contact Details**: Update your email, LinkedIn URL, or Telegram handle in the Hero and Contact sections of `index.html`.
-- **Contact Form Backend**: By default, the form opens the visitor's mail client with your prefilled email (`sajadzare11@gmail.com`). If you prefer an automated service like [Formspree](https://formspree.io), simply set `<form action="https://formspree.io/f/YOUR_ID" method="POST">` in `index.html`.
+- **Contact Form Backend**: By default, the form opens the visitor's mail client with your prefilled email (`zaresajjad98@yahoo.com`). If you prefer an automated service like [Formspree](https://formspree.io), simply set `<form action="https://formspree.io/f/YOUR_ID" method="POST">` in `index.html`.

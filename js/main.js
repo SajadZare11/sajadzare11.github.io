@@ -146,12 +146,12 @@ function initContactForm() {
 
     // Direct mailto trigger fallback to ensure guaranteed delivery without a backend
     setTimeout(() => {
-      const mailtoUrl = `mailto:sajadzare11@gmail.com?subject=${encodeURIComponent(`[${subject}] Message from ${name}`)}&body=${encodeURIComponent(`From: ${name} (${email})\n\n${message}`)}`;
+      const mailtoUrl = `mailto:zaresajjad98@yahoo.com?subject=${encodeURIComponent(`[${subject}] Message from ${name}`)}&body=${encodeURIComponent(`From: ${name} (${email})\n\n${message}`)}`;
       
       // Open user's email client
       window.location.href = mailtoUrl;
 
-      showStatus(`Thank you, ${name}! Your email client was opened. If it didn't open automatically, feel free to email sajadzare11@gmail.com directly.`, 'success');
+      showStatus(`Thank you, ${name}! Your email client was opened. If it didn't open automatically, feel free to email zaresajjad98@yahoo.com directly.`, 'success');
       form.reset();
 
       if (submitBtn) {
