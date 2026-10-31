@@ -2,7 +2,13 @@
 
 Official website source code for [sajadzare11.github.io](https://sajadzare11.github.io).
 
-A responsive biography and portfolio website celebrating a dual career: **Backend & Cloud Engineer** (Python, Go, Docker, APIs) and **English Educator** (IELTS/TOEFL Exam Preparation, General English, High School Curriculum).
+Personal biography and portfolio of **Sajad Zare** (Born 1999):
+- **English Educator** at **Shahid Beheshti High School for Exceptional Talents (NODET / SAMPAD)** in Torbat-e Heydarieh (teaching since 2020; English teaching since 2018).
+- **AI in ELT Researcher** (investigating the role of Artificial Intelligence in English Language Teaching since 2025).
+- **Python Developer** (coding with Python for NLP, EdTech, and educational automation since 2024).
+- **Academic Credentials**:
+  - Dual Master's: **M.Sc. in Computer Science (Artificial Intelligence)** & **M.A. in TEFL (Technology-Assisted Language Learning / CALL)**.
+  - Bachelor's: **B.A. in English Language Teaching** from Shahid Beheshti University of Mashhad.
 
 ---
 
